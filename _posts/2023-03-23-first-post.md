@@ -3,6 +3,7 @@ title: "Welcome to My first Blog!"
 date: 2023-03-23 01:41:28 -0400
 categories: coding
 tag: [python, blog, jekyll]
+toc: true
 ---
 
 # 처음으로 만들어 본 블로그입니다.
