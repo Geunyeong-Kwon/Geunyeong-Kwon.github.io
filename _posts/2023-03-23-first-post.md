@@ -10,3 +10,19 @@ toc: true
 앞으로 꾸준히 성장해 나가는 개발자가 되겠습니다.
 
 깃허브 주소:[my Github](https://github.com/Geunyeong-Kwon)
+
+
+'''python
+#빼기, 곱하기, 나누기 기능 구현
+a = 100
+b = 50
+result = a + b
+print(result)
+print(a,'+',b,'=',result)
+result = a - b
+print(a,'-',b,'=',result)
+result = a / b
+print(a,'/',b,'=',result)
+
+
+'''
