@@ -31,6 +31,7 @@ print(a,'/',b,'=',result)
 ```
 ## C++
 ```cpp
+/*Hello World! 출력하기*/
 #include <iostream>
 using namespace std;
 int main(){
@@ -40,6 +41,7 @@ return 0;
 ```
 ## C
 ```c
+/*2개 숫자 비교하기*/
 int main(){
   int num1, num2;
 
