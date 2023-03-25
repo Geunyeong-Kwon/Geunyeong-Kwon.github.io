@@ -2,7 +2,7 @@
 layout: single
 title: "지킬 블로그에 대하여..."
 categories: jeykll
-tag: jeykll
+tag: code
 author_profile: true
 ---
 
