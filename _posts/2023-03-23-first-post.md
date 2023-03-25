@@ -37,9 +37,9 @@ int main(){
 cout << "Hello World!";
 return 0;
 }
-'''
+```
 ## C
-'''C
+```C
 #include <stdio.h>
 int main(){
   int num1, num2;
@@ -54,4 +54,4 @@ int main(){
   return 0;
 
 }
-'''
+```
