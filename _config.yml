@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Geunyeong-Kwon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/_posts/연어.jpeg"
   bio              : "I am an **endeavor** person."
   location         : "Busan"
   email            : "geuny1472@naver.com"
