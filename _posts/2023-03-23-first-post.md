@@ -30,7 +30,7 @@ result = a / b
 print(a,'/',b,'=',result)
 ```
 ## C++
-```C++
+```cpp
 /*Hello World! 출력하기*/
 #include <iostream>
 using namespace std;
@@ -40,7 +40,7 @@ return 0;
 }
 ```
 ## C
-```C
+```c
 /*2개 숫자 입력 후 비교하기*/
 #include <stdio.h>
 int main(){
