@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "지킬 블로그에 대하여..."
-categories: jeykll
-tag: code
+categories: jekyll
+tag: jekyll
 author_profile: true
 ---
 

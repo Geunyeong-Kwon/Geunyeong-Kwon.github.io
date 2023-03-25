@@ -7,7 +7,7 @@ main:
   - title: "By Year"
     url: /year-archive/
   - title: "Search"
-    url: /serach/
+    url: /search/
     
 docs:
   - title: "대목차"
