@@ -30,30 +30,5 @@ result = a / b
 print(a,'/',b,'=',result)
 ```
 ## C++
-```cpp
-/*Hello World! 출력하기*/
-#include <iostream>
-using namespace std;
-int main(){
-cout << "Hello World!";
-return 0;
-}
-```
+
 ## C
-```c
-/*2개 숫자 입력 후 비교하기*/
-#include <stdio.h>
-int main(){
-  int num1, num2;
-
-  printf("2개 숫자를 입력: ");
-  scanf("%d %d", &num1,&num2);
-
-  printf("두 수가 같은가? %d\n",num1==num2);
-  printf("num1이 더 큰가? %d\n", num1 > num2);
-  printf("num2는 양수인가? %d\n", num2 >= 1);
-
-  return 0;
-
-}
-```
