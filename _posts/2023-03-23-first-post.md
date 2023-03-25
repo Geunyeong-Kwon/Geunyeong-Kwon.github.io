@@ -30,7 +30,7 @@ result = a / b
 print(a,'/',b,'=',result)
 ```
 ## C++
-```c++
+```cpp
 /*Hello World! 출력하기*/
 #include <iostream>
 using namespace std;
