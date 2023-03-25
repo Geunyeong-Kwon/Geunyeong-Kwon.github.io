@@ -2,7 +2,7 @@
 title: "Welcome to My first Blog!"
 date: 2023-03-23 01:41:28 -0400
 categories: coding
-tag: [python, blog, jekyll]
+tag: [class, blog]
 toc: true
 author_profile: false
 sidebar: 
